@@ -1,0 +1,1 @@
+# nodejs_orm_sequalize_mysql
